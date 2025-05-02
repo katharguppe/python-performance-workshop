@@ -1,0 +1,11 @@
+day2_session4_topic1
+# Install Microsoft C++ Build Tools
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+# Install Python dependencies
+python -m pip install cython numpy
+
+Install from Extensions Marketplace:
+- Python (Microsoft)
+- C/C++ (Microsoft)
+- Jupyter (Optional for demos)
